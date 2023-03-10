@@ -1,0 +1,35 @@
+/* textarea{
+    height: 250px;
+    width: 85%;
+    border-radius: 20px;
+    background-color:rgb(37, 235, 218) 
+}
+#saveBtn{
+    border-radius: 10px;
+} */
+
+
+.container {
+    position:relative;
+    width: 90%;
+    height: 260px;
+}
+button {
+    position:absolute;
+    border-radius: 10px;
+    left: 140px;
+    bottom: 0px;
+    width: 60px;
+}
+textarea {
+    position:relative;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 130px;
+    width:90%;
+    height: 258px;
+    border-radius: 20px;
+    border: 1px solid black;
+    resize: none;
+    background-color:rgb(37, 235, 218) 
+}
