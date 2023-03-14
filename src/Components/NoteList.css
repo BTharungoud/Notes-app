@@ -1,0 +1,7 @@
+.noteList{
+    display: grid;
+    grid-template-columns: repeat(3,350px);
+    margin-left: 130px;
+    justify-content: space-between;
+    
+}

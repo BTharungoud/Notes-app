@@ -1,0 +1,15 @@
+.container_notes{
+border: 1px solid black;
+background-color: lightslategray;
+display: flex; 
+flex-direction: column;
+justify-content: space-between;
+max-width: 350px;
+height: 200px;
+border-radius: 10px;
+margin-left: 10px;
+}
+.small{
+    display: flex;
+    justify-content: space-between;
+}
