@@ -18,10 +18,10 @@ button {
     position:absolute;
     border-radius: 10px;
     left: 140px;
-    bottom: 0px;
+    top: 290px;
     width: 60px;
 }
-textarea {
+#textArea {
     position:relative;
     padding-left: 10px;
     padding-top: 10px;
@@ -32,4 +32,13 @@ textarea {
     border: 1px solid black;
     resize: none;
     background-color:rgb(37, 235, 218) 
+}
+#search{
+position: relative;
+resize: none;
+border: 1px solid black;
+border-radius: 10px;
+margin-left: 130px;
+width: 90%;
+height: auto;
 }
